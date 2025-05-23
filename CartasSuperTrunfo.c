@@ -53,4 +53,14 @@ int main() {
     scanf("%f", &pib2);
     printf("Numero de Pontos Turisticos: ");
     scanf("%d", &pontosTuristicos2);
+
+    // Exibição dos dados da Carta 1
+    printf("\n=== Carta 1 ===\n");
+    printf("Estado: %c\n", estado1);
+    printf("Codigo: %s\n", codigo1);
+    printf("Nome da Cidade: %s\n", nomeCidade1);
+    printf("Populacao: %d\n", populacao1);
+    printf("Area: %.2f km²\n", area1);
+    printf("PIB: %.2f bilhoes de reais\n", pib1);
+    printf("Numero de Pontos Turisticos: %d\n", pontosTuristicos1);
 }    
