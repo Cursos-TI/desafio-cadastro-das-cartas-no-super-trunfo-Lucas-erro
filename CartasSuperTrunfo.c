@@ -12,4 +12,12 @@ int main(){
     float pib1;
     int pontos_turisticos1;
 
+    // Variáveis da Carta 2
+    char estado2;
+    char codigo2[5];
+    char nome2[50];
+    int populacao2;
+    float area2;
+    float pib2;
+    int pontos_turisticos2;
 }
