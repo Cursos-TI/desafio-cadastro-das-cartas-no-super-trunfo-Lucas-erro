@@ -11,4 +11,12 @@ int main() {
     int populacao1;
     float area1, pib1;
     int pontosTuristicos1;
+
+    // Declarando variáveis para a Carta 2
+    char estado2;
+    char codigo2[4];
+    char nomeCidade2[50];
+    int populacao2;
+    float area2, pib2;
+    int pontosTuristicos2;
 }    
